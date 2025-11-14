@@ -18,8 +18,8 @@ This project provides a hands-on demonstration of why StringBuilder is more effi
   - System.Runtime.CompilerServices (RuntimeHelpers for hash code inspection)
 
 ## How to Run (Local)
-1. **Clone:** `git clone https://github.com/Sxoony/StringBuilder-Performance-Demo.git`
-2. **Navigate:** `cd StringBuilder-Performance-Demo`
+1. **Clone:** `git clone https://github.com/Sxoony/StringBuilder.git`
+2. **Navigate:** `cd StringBuilder`
 3. **Setup:**
    - Open the solution in Visual Studio 2022 or later
    - Or open in Visual Studio Code with C# extension
